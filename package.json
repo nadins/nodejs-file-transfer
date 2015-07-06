@@ -1,0 +1,21 @@
+{
+  "description": "Node.js file transfer application",
+  "version": "0.1",
+  "author": "nadins",
+  "dependencies": {
+    "http": "*",
+    "node-static": "*",
+    "type-of-is": "*",
+    "ws": "*"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "subdomain": "xyz",
+  "scripts": {
+    "start": "/server/server.js"
+  },
+  "name": "test"
+}
+
+
